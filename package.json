@@ -1,0 +1,24 @@
+{
+  "name": "smallcase",
+  "version": "1.0.0",
+  "description": "Smallcase portfolio assignment",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "compression": "^1.7.2",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "express-winston": "^2.5.0",
+    "http-errors": "~1.6.2",
+    "mongoose": "^5.0.12",
+    "morgan": "~1.9.0",
+    "winston": "^2.4.1",
+    "winston-daily-rotate-file": "^3.0.1"
+  },
+  "author": "sahil arora",
+  "license": "ISC"
+}
